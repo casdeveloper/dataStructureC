@@ -1,0 +1,3 @@
+/Users/casilva/Projects/GitHub/Class/StructureDate/dataStructure-linearList/cmake-build-debug/CMakeFiles/LinearList.dir
+/Users/casilva/Projects/GitHub/Class/StructureDate/dataStructure-linearList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/casilva/Projects/GitHub/Class/StructureDate/dataStructure-linearList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
